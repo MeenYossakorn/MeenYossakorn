@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front End Developer | UX/UI Design 
 -------------------
 
-I am a Computer and Electronics Engineering student at King Mongkut's University of Technology North Bangkok.
+I am a Computer and Electronics Engineering student at King Mongkut's University of Technology North Bangkok. 👨🏻‍💻
 
 * 🌍  I'm based in Nonthaburi, Thailand
 * ✉️  You can contact me at [meenyossakorn2546@gmail.com](mailto:meenyossakorn2546@gmail.com)
