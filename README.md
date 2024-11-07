@@ -8,6 +8,7 @@ Front End Developer | UX/UI Design
 I am a Computer and Electronics Engineering student at King Mongkut's University of Technology North Bangkok. 👨🏻‍💻
 
 * 🌍  I'm based in Nonthaburi, Thailand
+* 🖥️  See my portfolio at [https://yossakorn-lengrabum.vercel.app/](http://yossakorn-lengrabum.vercel.app/)
 * ✉️  You can contact me at [meenyossakorn2546@gmail.com](mailto:meenyossakorn2546@gmail.com)
 
 ### Skills
