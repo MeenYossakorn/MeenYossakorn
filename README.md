@@ -66,6 +66,7 @@ I am a Computer and Electronics Engineering student at King Mongkut's University
 
 
 
-![pxfuel](https://github.com/user-attachments/assets/e0989e70-1a8c-42ea-9702-66bc78deab4e)
+
+![dhg9ghh-0e3f839c-c5a8-4378-83dd-6a69d65761d0](https://github.com/user-attachments/assets/4fcc3602-1cd0-4d2e-b5e5-376c6a3878f8)
 
   
