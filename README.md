@@ -8,7 +8,7 @@ Front-End Developer | UX/UI Design
 I am a Computer and Electronics Engineering student at King Mongkut's University of Technology North Bangkok. 👨🏻‍💻
 
 * 🌍  I'm based in Nonthaburi, Thailand
-* 🖥️  See my portfolio at [yossakorn_lengrabum_Portfolio](http://yossakorn-lengrabum.vercel.app/)
+* 🖥️  See my portfolio at [Yossakorn_Lengrabum_Portfolio](http://yossakorn-lengrabum.vercel.app/)
 * ✉️  You can contact me at [meenyossakorn2546@gmail.com](mailto:meenyossakorn2546@gmail.com)
 
 ### Skills
@@ -63,10 +63,5 @@ I am a Computer and Electronics Engineering student at King Mongkut's University
 
 <p align="left"> 
   <a href="https://www.github.com/MeenYossakorn" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/yossakorn-lengrabum/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-
-
-
-![dhg9ghh-0e3f839c-c5a8-4378-83dd-6a69d65761d0](https://github.com/user-attachments/assets/4fcc3602-1cd0-4d2e-b5e5-376c6a3878f8)
 
   
