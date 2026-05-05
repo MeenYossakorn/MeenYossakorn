@@ -42,7 +42,7 @@ I am a Computer and Electronics Engineering student at King Mongkut's University
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin,figma" />
+    <img src="https://skillicons.dev/icons?i=ps,figma" />
   </a>
 </p>
 
